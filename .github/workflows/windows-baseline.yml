@@ -4,7 +4,7 @@ name: Windows Qt baseline
 
 on:
   push:
-    branches: ['codex/windows-*']
+    branches: ['main', 'codex/windows-*']
   pull_request:
   workflow_dispatch:
 
